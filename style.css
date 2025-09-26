@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background: rgba(165, 163, 54, 0.6);
+  background: rgba(255, 251, 0, 0.74);
   padding: 30px;
   border-radius: 15px;
   width: 80%;
@@ -43,4 +43,5 @@ button {
 button:hover {
   background: #e68900;
 }
+
 

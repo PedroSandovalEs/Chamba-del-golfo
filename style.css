@@ -1,8 +1,8 @@
 body {
-  font-family: Open-sans, lato;
-  background: linear-gradient(135deg, #ffffff, #ee0d0d);
+  font-family: Open-sans, lato; /* Modifiqué la fuente con ayuda de google*/
+  background: linear-gradient(135deg, #ffffff, #ee0d0d); /* Cambié los colores del fondo con ayuda de Visual Studio */
   color: #000000;
-  text-align: match-parent;
+  text-align: match-parent;/* Cambié el ajuste del texto con Visual Studio */
   height: 100vh;
   margin: 0;
   display: flex;
@@ -31,18 +31,19 @@ h1 {
 }
 
 button {
-  background: #3a0202;
+  background: #3a0202;/* Cambié los colores del botón por unos más acordes al tema con ayuda de Visual Studio */
   border: none;
   padding: 12px 20px;
   font-size: 16px;
   border-radius: 10px;
   cursor: pointer;
-  transition: 1s;
+  transition: 1s; /* Cambié el tiempo de la transición */
 }
 
 button:hover {
-  background: #ec0707;
+  background: #ec0707; /* invertí los colores para que en lugar de oscurecer, se aclarara cuendo pasas el mouse */
 }
+
 
 
 

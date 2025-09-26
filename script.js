@@ -1,12 +1,27 @@
 // Declaramos un arreglo (array) con varias frases motivacionales
 const citas = [
-  "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
-  "Nunca es tarde para aprender algo nuevo.",
-  "El futuro pertenece a quienes creen en la belleza de sus sueños.",
-  "La programación no se aprende en un día, se construye con paciencia.",
-  "No te rindas, el inicio siempre es lo más difícil.",
-  "Cada error es una oportunidad para mejorar.",
-  "El conocimiento es poder, pero la práctica lo transforma en sabiduría."
+  "Bulbasor.",
+  "Charmander.",
+  "Squirtle.",
+  "Chikorita.",
+  "Cyndaquil.",
+  "Totodile.",
+  "Treecko.",
+  "Torchic.",
+  "Mudkip.",
+  "Turtwig.",
+  "Chimchar.",
+  "Piplup.",
+  "Snivy.",
+  "Tepig.",
+  "Oshawott.",
+  "Chespin.",
+  "Fennekin.",
+   "Froakie",
+  "Rowlet.",
+  "Litten.",
+  "Popplio.",
+  
 ];
 
 // Definimos la función que mostrará una cita aleatoria
@@ -25,3 +40,4 @@ function generarCita() {
 function saludar() {
 alert ("hola, bienvenido al generador de pókemones.");
 }
+

@@ -30,3 +30,4 @@ function generarCita() {
 function saludar() {
   alert("Hola, bienvenido al generador de Pokémon."); 
 }
+saludar();

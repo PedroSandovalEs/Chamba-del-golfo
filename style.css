@@ -31,7 +31,7 @@ h1 {
 }
 
 button {
-  background: #3a0202;/* Cambié los colores del botón por unos más acordes al tema con ayuda de Visual Studio */
+  background: #3a0202; /* Cambié los colores del botón por unos más acordes al tema con ayuda de Visual Studio */
   border: none;
   padding: 12px 20px;
   font-size: 16px;
@@ -43,6 +43,7 @@ button {
 button:hover {
   background: #ec0707; /* invertí los colores para que en lugar de oscurecer, se aclarara cuendo pasas el mouse */
 }
+
 
 
 

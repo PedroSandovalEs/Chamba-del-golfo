@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Open-sans, lato;
   background: linear-gradient(135deg, #ffffff, #ee0d0d);
   color: #000000;
   text-align: match-parent;
@@ -43,6 +43,7 @@ button {
 button:hover {
   background: #ec0707;
 }
+
 
 
 

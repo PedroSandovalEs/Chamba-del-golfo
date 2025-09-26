@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #66cc00, #2575fc);
-  color: #fff;
+  background: linear-gradient(135deg, #ffffff, #ee0d0d);
+  color: #000000;
   text-align: center;
   height: 100vh;
   margin: 0;
@@ -11,12 +11,12 @@ body {
 }
 
 .container {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(165, 163, 54, 0.6);
   padding: 30px;
   border-radius: 15px;
   width: 80%;
   max-width: 500px;
-  box-shadow: 0px 5px 15px rgba(0,0,0,0.3);
+  box-shadow: 0px 5px 15px rgba(129, 128, 46, 0.342);
 }
 
 h1 {
@@ -43,3 +43,4 @@ button {
 button:hover {
   background: #e68900;
 }
+

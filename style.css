@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #ffffff, #ee0d0d);
   color: #000000;
-  text-align: center;
+  text-align: match-parent;
   height: 100vh;
   margin: 0;
   display: flex;
@@ -31,7 +31,7 @@ h1 {
 }
 
 button {
-  background: #ff9800;
+  background: #3a0202;
   border: none;
   padding: 12px 20px;
   font-size: 16px;
@@ -43,5 +43,6 @@ button {
 button:hover {
   background: #e68900;
 }
+
 
 

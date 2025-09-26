@@ -6,7 +6,7 @@ body {
   height: 100vh;
   margin: 0;
   display: flex;
-  justify-content: overflow-position;
+  justify-content: center;
   align-items: center;
 }
 
@@ -43,6 +43,7 @@ button {
 button:hover {
   background: #ec0707; /* invertí los colores para que en lugar de oscurecer, se aclarara cuendo pasas el mouse */
 }
+
 
 
 

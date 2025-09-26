@@ -1,6 +1,5 @@
-
 const citas = [
-  "Bulbasor.",
+  "Bulbasaur.",
   "Charmander.",
   "Squirtle.",
   "Chikorita.",
@@ -17,23 +16,17 @@ const citas = [
   "Oshawott.",
   "Chespin.",
   "Fennekin.",
-   "Froakie",
+  "Froakie.",
   "Rowlet.",
   "Litten.",
   "Popplio.",
-  
 ];
 
-
 function generarCita() {
-
-
-
+  const indice = Math.floor(Math.random() * citas.length); 
   document.getElementById("quote").innerText = citas[indice];
 }
 
 function saludar() {
-alert ("hola, bienvenido al generador de pókemones.");//Aquí añadí mi mensaje personalizado
+  alert("Hola, bienvenido al generador de Pokémon."); 
 }
-
-

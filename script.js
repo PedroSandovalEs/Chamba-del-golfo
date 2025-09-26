@@ -21,3 +21,7 @@ function generarCita() {
   // Cambiamos su contenido de texto por la frase que corresponde al índice generado
   document.getElementById("quote").innerText = citas[indice];
 }
+
+function saludar() {
+alert ("hola, bienvenido al generador de pókemones.");
+}
